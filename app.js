@@ -65,6 +65,7 @@
 
 //   QUESTION NO 08;
 
+
 // var nump =  [24, 53, 78, 91, 12]
 // // console.log(nump[2])
 // for ( var q = 0 ; q < nump.length ; q++){
@@ -215,7 +216,13 @@ var small = b[0];
 // console.log(pok.charAt(7))
 
 //     QUESTION NO 18 ;
-  
+  var pp = prompt("enter ypou roll  no");
+  if (pp === "waleed"){
+    alert("wrong")
+  }
+  else{
+    console.log('power')
+  }
 
 
   
