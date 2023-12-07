@@ -7,7 +7,7 @@
 
 // var dp = ["0","1","2","3" , ["1","0","1","2"] ,["2","1","0","1"]];
 // document.write(dp.slice(0,4) + "  </br>");
-//document.write(dp.slice() + "  </br>");
+// document.write(dp.slice() + "  </br>");
 
 //   QUESTION NO 03;
 
@@ -35,7 +35,7 @@
 
 
 //  for (k = 20 ; k >= 0 ; k-- ){
-//     document.write(k + ",")
+//     console.log(k + ",")
 //  }
 
 // for (l = 20 ; l >= 1; l-- ){
@@ -70,24 +70,22 @@
 // for ( var q = 0 ; q < nump.length ; q++){
 //     console.log(q)
 //     for ( var j = q+1 ; j < nump.length ; j++){
-//         debugger
+        
 //     if (nump[q] > nump[j] ){
 //         alert(nump[q])
-//     }
-    
-//     }
+//     }    
 // }
-
+// }
 //    QUESTION NO 09;
 
-// b = [24, 53, 78, 91, 12]
-// var small = b[0];
-//  for (var i = 1; i < b.length ;i++ ){
-//     if(b[i] < small ){
-//         small = b[i]
-//     }
-//     alert("the smallest number is " + small)
-//  }
+b = [24, 53, 78, 91, 12]
+var small = b[0];
+ for (var i = 1; i < b.length ;i++ ){
+    if(b[i] < small ){
+        small = b[i]
+    }
+    alert("the smallest number is " + small)
+ }
 
 //  QUESTION NO 10;
 
