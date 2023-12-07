@@ -221,7 +221,7 @@ var small = b[0];
     alert("wrong")
   }
   else{
-    console.log('power')
+    console.log("waleed ")
   }
 
 
