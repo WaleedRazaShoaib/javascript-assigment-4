@@ -225,10 +225,7 @@
 //   }
 
 
- var yy = ["wal","huz","qna","kiw"]
-for(var i = 0;i<yy.length;i++ ){
-console.log(yy[i])
-}
+
 
   
   
