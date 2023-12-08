@@ -79,14 +79,14 @@
 // }
 //    QUESTION NO 09;
 
-b = [24, 53, 78, 91, 12]
-var small = b[0];
- for (var i = 1; i < b.length ;i++ ){
-    if(b[i] < small ){
-        small = b[i]
-    }
-    alert("the smallest number is " + small)
- }
+// b = [24, 53, 78, 91, 12]
+// var small = b[0];
+//  for (var i = 1; i < b.length ;i++ ){
+//     if(b[i] < small ){
+//         small = b[i]
+//     }
+//     alert("the smallest number is " + small)
+//  }
 
 //  QUESTION NO 10;
 
@@ -216,14 +216,19 @@ var small = b[0];
 // console.log(pok.charAt(7))
 
 //     QUESTION NO 18 ;
-  var pp = prompt("enter ypou roll  no");
-  if (pp === "waleed"){
-    alert("wrong")
-  }
-  else{
-    console.log("waleed ")
-  }
+//   var pp = prompt("enter ypou roll  no");
+//   if (pp === "waleed"){
+//     alert("wrong")
+//   }
+//   else{
+//     console.log("waleed ")
+//   }
 
+
+ var yy = ["wal","huz","qna","kiw"]
+for(var i = 0;i<yy.length;i++ ){
+console.log(yy[i])
+}
 
   
   
