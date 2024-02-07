@@ -223,7 +223,10 @@
 //   else{
 //     console.log("waleed ")
 //   }
-
+  var opo = "hello";
+  for(var i = 0;i<opo.length;i++){
+console.log(opo[i])
+  }
 
 
 
